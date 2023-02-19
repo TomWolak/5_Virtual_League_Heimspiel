@@ -1,0 +1,8 @@
+C:\Users\admin\source\repos\5_Virtual_League_Heimspiel\5_Virtual_League_Heimspiel\bin\Debug\5_Virtual_League_Heimspiel.exe.config
+C:\Users\admin\source\repos\5_Virtual_League_Heimspiel\5_Virtual_League_Heimspiel\bin\Debug\5_Virtual_League_Heimspiel.exe
+C:\Users\admin\source\repos\5_Virtual_League_Heimspiel\5_Virtual_League_Heimspiel\bin\Debug\5_Virtual_League_Heimspiel.pdb
+C:\Users\admin\source\repos\5_Virtual_League_Heimspiel\5_Virtual_League_Heimspiel\obj\Debug\5_Virtual_League_Heimspiel.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\5_Virtual_League_Heimspiel\5_Virtual_League_Heimspiel\obj\Debug\5_Virtual_League_Heimspiel.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\source\repos\5_Virtual_League_Heimspiel\5_Virtual_League_Heimspiel\obj\Debug\5_Virtual_League_Heimspiel.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\5_Virtual_League_Heimspiel\5_Virtual_League_Heimspiel\obj\Debug\5_Virtual_League_Heimspiel.exe
+C:\Users\admin\source\repos\5_Virtual_League_Heimspiel\5_Virtual_League_Heimspiel\obj\Debug\5_Virtual_League_Heimspiel.pdb
